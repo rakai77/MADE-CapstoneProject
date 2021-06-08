@@ -19,6 +19,10 @@
         <item name="windowNoTitle">true</item>
     </style>
 
+    <style name="Theme.SubmissionCapstoneProject.Background" parent="Theme.MaterialComponents.DayNight">
+        <item name="android:background">@color/dark</item>
+    </style>
+
     <style name="Theme.SubmissionCapstoneProject.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
     <style name="Theme.SubmissionCapstoneProject.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
